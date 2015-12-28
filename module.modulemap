@@ -1,0 +1,5 @@
+module CShapelib [system] {
+    header "/usr/local/include/shapefil.h"
+    link "shp"
+    export *
+}
